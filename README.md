@@ -1,2 +1,3 @@
 # Mattia Girolami - 2076424
-The content of this repo is organized as follows: each and every excercise is included both in the `excercises/` folder (each excercise in a different file) **and** aggregated in the file `scripts.ipynb`
+In this repo you can find every excercise aggregated in the file `scripts.ipynb`.
+this was my first experience with python despite already having an IT background with some programming languages such as Java, Kotlin, C++, Javascript...
